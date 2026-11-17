@@ -1,0 +1,6 @@
+{
+  "description": "Inherited by every xwiki-contrib repository, see README.md",
+  "extends": ["github>xwiki-contrib/.github//renovate/default.json5"],
+  "onboarding": false,
+  "requireConfig": "optional"
+}
